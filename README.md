@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi, I'm Julian!
+
+- 🖥️ Writing scripts and little programs in Go and Python
+- 📖 Learning more about React and frontend at the moment
+- ⚡Always looking for new things to learn!
 
 <!--
 **ju-vfx/ju-vfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
